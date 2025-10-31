@@ -2,7 +2,18 @@
 
 ## Reworks Collection
 
-Colección profesional de reworks y remixes no comerciales.
+Classic songs reimagined with a glitch-electronic twist: a journey between nostalgia and futurism.
+
+---
+
+## Featured Reworks
+
+- Chimo Bayo – Así me gusta a mí (Borja Moskv Rework) (18 ago 2024)
+- The Beachland Ballroom (Borja Moskv Remix) (aparece listado en la discografía y "full digital discography")
+- Bolsas (Borja Moskv Remix) (la misma del SoundCloud)
+- Tame Impala – Let It Happen (Borja Moskv Rework) (aparece en el bundle de releases)
+- Silvia Pérez Cruz – Pequeño vals vienés (Borja Moskv Rework) (aparece nombrado en la página de música)
+- Deep Yorke (rework "Yorke-izado", en la misma lista que el de Silvia)
 
 ---
 
@@ -47,65 +58,3 @@ Colección profesional de reworks y remixes no comerciales.
 | Murderes | John Frusciante | 2025 | [Bandcamp](https://borjamoskv.bandcamp.com/track/murderes) | Remix no comercial |
 | Again | The George Kaplan Conspiracy | 2025 | [Bandcamp](https://borjamoskv.bandcamp.com/track/again) | Remix no comercial |
 | Así fue | Isabel Pantoja | 2025 | [Bandcamp](https://borjamoskv.bandcamp.com/track/as-fue) | Remix no comercial |
-| La flaca | Jarabe de Palo | 2025 | [Bandcamp](https://borjamoskv.bandcamp.com/track/la-flaca) | Remix no comercial |
-| Narcopiso | Cecilio G. | 2025 | [Bandcamp](https://borjamoskv.bandcamp.com/track/narcopiso) | Remix no comercial |
-| Mil espejos | Nudozurdo | 2025 | [Bandcamp](https://borjamoskv.bandcamp.com/track/mil-espejos) | Remix no comercial |
-| Crujidos | Nacho Vegas | 2025 | [Bandcamp](https://borjamoskv.bandcamp.com/track/crujidos) | Remix no comercial |
-| Vomito Verbal | Gloory Hole | 2025 | [Bandcamp](https://borjamoskv.bandcamp.com/track/vomito-verbal) | Remix no comercial |
-| Even Though with Another Girl | Trentemøller | 2025 | [Bandcamp](https://borjamoskv.bandcamp.com/track/even-though-with-another-girl) | Remix no comercial |
-| Así me gusta a mí | Chimo Bayo | 2025 | [Bandcamp](https://borjamoskv.bandcamp.com/track/as-me-gusta-a-m) | Remix no comercial |
-| La puta de la cabra | Borja Moskv | 2025 | [Bandcamp](https://borjamoskv.bandcamp.com/track/la-puta-de-la-cabra) | Remix no comercial |
-| Hope there's someone | Antony & The Johnsons | 2025 | [Bandcamp](https://borjamoskv.bandcamp.com/track/hope-theres-someone) | Remix no comercial |
-| I love you | Fontaines D.C. | 2025 | [Bandcamp](https://borjamoskv.bandcamp.com/track/i-love-you) | Remix no comercial |
-| Ola de suicidios | Dillom | 2025 | [Bandcamp](https://borjamoskv.bandcamp.com/track/ola-de-suicidios) | Remix no comercial |
-| A cualquier otra parte | Dorian | 2025 | [Bandcamp](https://borjamoskv.bandcamp.com/track/a-cualquier-otra-parte) | Remix no comercial |
-| Extasy extano | Chimo Bayo | 2025 | [Bandcamp](https://borjamoskv.bandcamp.com/track/extasy-extano) | Remix no comercial |
-| Heroína | Los Calis | 2025 | [Bandcamp](https://borjamoskv.bandcamp.com/track/hero-na) | Remix no comercial |
-| NuevaYol | Bad Bunny | 2025 | [Bandcamp](https://borjamoskv.bandcamp.com/track/nuevayol) | Remix no comercial |
-| Bonito | Los Sencillos | 2025 | [Bandcamp](https://borjamoskv.bandcamp.com/track/bonito) | Remix no comercial |
-| Circulos de cera | El Corazón del Sapo | 2025 | [Bandcamp](https://borjamoskv.bandcamp.com/track/circulos-de-cera) | Remix no comercial |
-
-### 2024
-
-| Título | Artista Original | Año | Enlace | Licencia |
-|--------|-----------------|-----|--------|----------|
-| _Próximamente_ | - | 2024 | [SoundCloud](#) / [Bandcamp](#) | Remix no comercial |
-
-### 2023
-
-| Título | Artista Original | Año | Enlace | Licencia |
-|--------|-----------------|-----|--------|----------|
-| _Próximamente_ | - | 2023 | [SoundCloud](#) / [Bandcamp](#) | Remix no comercial |
-
----
-
-## Nota de Licencia
-
-**Todos los reworks en este repositorio son remixes no comerciales.**
-
-Estos trabajos se crean con respeto a los artistas originales y están destinados únicamente para uso promocional y de portfolio. No están disponibles para uso comercial.
-
----
-
-## Cómo Añadir Nuevos Reworks
-
-Para añadir un nuevo rework a la lista:
-
-1. Edita este archivo README.md
-2. Añade una nueva fila en la tabla del año correspondiente con:
-   - Título del rework
-   - Artista original
-   - Año
-   - Enlace a SoundCloud o Bandcamp
-   - Nota de licencia: "Remix no comercial"
-3. Guarda los cambios
-
----
-
-## Contacto
-
-Para consultas sobre estos reworks, contacta a través de los enlaces en el perfil.
-
----
-
-*Repositorio actualizado regularmente con nuevos trabajos*
